@@ -1,2 +1,0 @@
-# praditarysd.github.io
-template
